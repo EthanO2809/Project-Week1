@@ -1,0 +1,37 @@
+
+
+.logo {
+    width: 68px;
+    height: 68px;
+    border-radius: 150px;
+}
+
+.me-2 {
+    border-radius: 20px;
+}
+
+.flex-container {
+    display: flex;
+    overflow: hidden;
+}
+
+.gif1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
